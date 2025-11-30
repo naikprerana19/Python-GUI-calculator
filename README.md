@@ -5,4 +5,4 @@ Buttons for arithmetic operations
 Result display field
 Error handling for division by zero
 
-LinkedIn link:linkedin.com/in/prerana-naik-44515a331
+LinkedIn link: linkedin.com/in/prerana-naik-44515a331
